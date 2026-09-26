@@ -1,5 +1,5 @@
 # LAN Scanner
-<img width="836" height="383" alt="изображение" src="https://github.com/user-attachments/assets/23413ea5-0609-41ae-bc7a-6c110811c2d3" />
+<img width="921" height="368" alt="изображение" src="https://github.com/user-attachments/assets/541f8e70-cc7d-4e2d-b628-c504ed61a340" />
 
 Инструмент для разведки локальной сети: обнаружение устройств, определение
 вендора и типа устройства, сканирование портов с определением сервисов и их
